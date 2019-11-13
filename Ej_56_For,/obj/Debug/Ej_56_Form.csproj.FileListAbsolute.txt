@@ -1,0 +1,10 @@
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_Form.csprojAssemblyReference.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_For_.frmArchivosTexto.resources
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_For_.Properties.Resources.resources
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_Form.csproj.GenerateResource.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_Form.csproj.CoreCompileInputs.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\bin\Debug\Ej_56_For,.exe.config
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\bin\Debug\Ej_56_For,.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\bin\Debug\Ej_56_For,.pdb
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_For,.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_56_For,\obj\Debug\Ej_56_For,.pdb

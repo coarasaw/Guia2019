@@ -1,0 +1,10 @@
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\bin\Debug\Ej_61_Form.exe.config
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\bin\Debug\Ej_61_Form.exe
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\bin\Debug\Ej_61_Form.pdb
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.csprojAssemblyReference.cache
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.FormEj61.resources
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.Properties.Resources.resources
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.csproj.GenerateResource.cache
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.csproj.CoreCompileInputs.cache
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.exe
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_61_Form\obj\Debug\Ej_61_Form.pdb

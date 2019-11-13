@@ -1,0 +1,12 @@
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\bin\Debug\Ej_69_Form.exe.config
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\bin\Debug\Ej_69_Form.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\bin\Debug\Ej_69_Form.pdb
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.csprojAssemblyReference.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.FrmMostrar.resources
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.FrmPrincipal.resources
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.FrmTestDelegados.resources
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.Properties.Resources.resources
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.csproj.GenerateResource.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.csproj.CoreCompileInputs.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_69_Form\obj\Debug\Ej_69_Form.pdb

@@ -1,0 +1,13 @@
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_26\bin\Debug\Ej_26.exe.config
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_26\bin\Debug\Ej_26.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_26\bin\Debug\Ej_26.pdb
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.csproj.CoreCompileInputs.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.pdb
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\bin\Debug\Ej_26.exe.config
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\bin\Debug\Ej_26.exe
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\bin\Debug\Ej_26.pdb
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.csprojAssemblyReference.cache
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.csproj.CoreCompileInputs.cache
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.exe
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_26\obj\Debug\Ej_26.pdb

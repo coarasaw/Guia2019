@@ -1,0 +1,7 @@
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\bin\Debug\Ej_57.exe.config
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\bin\Debug\Ej_57.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\bin\Debug\Ej_57.pdb
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\obj\Debug\Ej_57.csprojAssemblyReference.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\obj\Debug\Ej_57.csproj.CoreCompileInputs.cache
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\obj\Debug\Ej_57.exe
+D:\03_App_Wally\Z_UTN\2019\00_SegundoCuatrimestre_2019\00_Prog_&_Lab\Laboratorio\LaboratorioIIGuia2019\Ej_57\obj\Debug\Ej_57.pdb

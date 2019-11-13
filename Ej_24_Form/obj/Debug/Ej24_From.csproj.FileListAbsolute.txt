@@ -1,0 +1,13 @@
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\bin\Debug\Ej24_From.exe.config
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\bin\Debug\Ej24_From.exe
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\bin\Debug\Ej24_From.pdb
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\bin\Debug\Biblioteca_Ej21.dll
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\bin\Debug\Biblioteca_Ej21.pdb
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.csprojAssemblyReference.cache
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.Conversor.resources
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.Properties.Resources.resources
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.csproj.GenerateResource.cache
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.csproj.CoreCompileInputs.cache
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.csproj.CopyComplete
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.exe
+E:\CoarasaW\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej24_From\obj\Debug\Ej24_From.pdb

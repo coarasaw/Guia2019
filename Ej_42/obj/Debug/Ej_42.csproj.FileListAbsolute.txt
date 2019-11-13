@@ -1,0 +1,6 @@
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_42\obj\Debug\Ej_42.csproj.CoreCompileInputs.cache
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_42\bin\Debug\Ej_42.exe.config
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_42\bin\Debug\Ej_42.exe
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_42\bin\Debug\Ej_42.pdb
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_42\obj\Debug\Ej_42.exe
+E:\UTN\2019\00_SegundoCuatrimestre_2019\Laboratorio\LaboratorioIIGuia2019\Ej_42\obj\Debug\Ej_42.pdb
